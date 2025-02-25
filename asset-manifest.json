@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BAD-React-App/static/css/main.7678cf5e.css",
+    "main.js": "/BAD-React-App/static/js/main.e5148e73.js",
+    "static/js/453.a9e7e37d.chunk.js": "/BAD-React-App/static/js/453.a9e7e37d.chunk.js",
+    "index.html": "/BAD-React-App/index.html",
+    "main.7678cf5e.css.map": "/BAD-React-App/static/css/main.7678cf5e.css.map",
+    "main.e5148e73.js.map": "/BAD-React-App/static/js/main.e5148e73.js.map",
+    "453.a9e7e37d.chunk.js.map": "/BAD-React-App/static/js/453.a9e7e37d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7678cf5e.css",
+    "static/js/main.e5148e73.js"
+  ]
+}
