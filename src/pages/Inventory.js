@@ -370,10 +370,10 @@ function Inventory() {
             }}
           >
             <img
-              src={modalImage}
-              alt="Product Image"
-              style={{ width: '100%', maxHeight: '400px', objectFit: 'contain' }}
-            />
+  src={modalImage}
+  alt="Product"
+  style={{ width: '100%', maxHeight: '400px', objectFit: 'contain' }}
+/>
             <div
               className="modal-buttons"
               style={{ marginTop: '15px', textAlign: 'right' }}
