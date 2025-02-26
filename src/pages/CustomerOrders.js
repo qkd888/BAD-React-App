@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import '../index.css';
-import '../customer-orders.css';
+import '../CustomerOrders.css';
 
 
 function CustomerOrders() {
