@@ -17,7 +17,7 @@ function Navbar() {
   return (
     <nav className="navbar">
       <div className="navbar-brand">
-        <Link to="/">Bosapie Designs</Link>
+        <Link to="/">QKD888 Designs</Link>
         
       </div>
       <ul className={`navbar-links ${isOpen ? 'open' : ''}`}>
